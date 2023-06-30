@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/appback1"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#7FE1CBCB"
+        android:fontFamily="@font/opensansbold"
+        android:gravity="center"
+        android:text="Select Any State"
+        android:textColor="#FFC107"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/curr_location"
+        android:layout_width="match_parent"
+        android:layout_below="@id/textview"
+        android:layout_height="60dp"
+        android:background="#7FE1CBCB"
+        android:fontFamily="@font/opensansbold"
+        android:text="Current Location"
+        android:textColor="#FF0033"
+        android:textSize="30dp" />
+
+    <ListView
+        android:id="@+id/list_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/curr_location"
+        android:background="#7FE1CBCB"
+        android:textColor="#CDDC39" />
+
+
+</RelativeLayout>
