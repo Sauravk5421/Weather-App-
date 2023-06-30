@@ -217,7 +217,7 @@
                             android:fontFamily="@font/opensans"
                             android:paddingLeft="40dp"
                             android:paddingTop="10dp"
-                            android:text="Sun, Mar 26"
+                            android:text="Sat, July 01"
                             android:textColor="@color/white"
                             android:textSize="20sp"
                             android:textStyle="bold" />
@@ -268,7 +268,7 @@
                             android:fontFamily="@font/opensans"
                             android:paddingLeft="40dp"
                             android:paddingTop="10dp"
-                            android:text="Mon, Mar 27"
+                            android:text="Sun, July 02"
                             android:textColor="@color/white"
                             android:textSize="20sp"
                             android:textStyle="bold" />
@@ -319,7 +319,7 @@
                             android:fontFamily="@font/opensans"
                             android:paddingLeft="40dp"
                             android:paddingTop="10dp"
-                            android:text="Tue, Mar 28"
+                            android:text="Mon, July 03"
                             android:textColor="@color/white"
                             android:textSize="20sp"
                             android:textStyle="bold" />
@@ -372,7 +372,7 @@
                             android:fontFamily="@font/opensans"
                             android:paddingLeft="40dp"
                             android:paddingTop="10dp"
-                            android:text="Wed, Mar 29"
+                            android:text="Tue, July 04"
                             android:textColor="@color/white"
                             android:textSize="20sp"
                             android:textStyle="bold" />
@@ -425,7 +425,7 @@
                             android:fontFamily="@font/opensans"
                             android:paddingLeft="40dp"
                             android:paddingTop="10dp"
-                            android:text="Thur, Mar 30"
+                            android:text="Wed, July 05"
                             android:textColor="@color/white"
                             android:textSize="20sp"
                             android:textStyle="bold" />
